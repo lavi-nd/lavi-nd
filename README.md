@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lavi-nd
+- 👋 Hi, I’m @Lavigne Ndiwa
 - 👀 I’m interested in data science, Big data and cyber security.
 - 🌱 I’m currently learning data science and analytics 
 - 💞️ I’m looking to collaborate on empowering projects
